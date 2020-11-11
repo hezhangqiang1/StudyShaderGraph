@@ -1,33 +1,10 @@
-Base path: G:/unity2018.4/2018.4.20f1/Editor/Data
+Base path: 'D:/Tools/Unity/2019.4.13f1c1/Editor/Data', plugins path 'D:/Tools/Unity/2019.4.13f1c1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  api=4 insize=2134 outsize=349 ok=1
+  api=4 insize=18731 outsize=8653 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=11176 outsize=10593 ok=1
+  api=4 insize=5032 outsize=5412 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=5022 outsize=5397 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18731 outsize=8781 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18731 outsize=10469 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=2953 outsize=353 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=1864 outsize=553 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  api=4 insize=10881 outsize=9849 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=4845 outsize=4101 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18299 outsize=8693 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18299 outsize=8925 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=18299 outsize=10549 ok=1
-Cmd: compileComputeKernel
-  api=4 insize=2867 outsize=353 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
+  api=4 insize=3532 outsize=2622 ok=1
+
+Quitting shader compiler process
